@@ -5,8 +5,8 @@
 //  *********
 // ***********
 //*************
-//Écrire le programme pour avoir un pyramide d'étoile, le nombre des lignes à composer est demandé à l’utilisateur.
-//(chaque ligne doit avoir un nombre premier d'étoiles.
+//ï¿½crire le programme pour avoir un pyramide d'ï¿½toile, le nombre des lignes ï¿½ composer est demandï¿½ ï¿½ lï¿½utilisateur.
+//(chaque ligne doit avoir un nombre premier d'ï¿½toiles.
 
 #include <stdio.h>
 #define MAX_ETOILE 100
@@ -32,6 +32,4 @@ int main(void) {
 
     printf("%s\n", ligne);
   }
-
-  return 0;
 }
